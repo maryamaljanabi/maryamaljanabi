@@ -20,7 +20,7 @@
 
 ### About me ✨ 
 
-Hi! My name is Maryam and I am a full stack web developer who has a passion for learning new technologies and skills. I have a bachelor degree in computer engineering and a master degree in computer science and I was the top student during both degrees. Up till now, I have worked in two companies and I have experience in building websites for about 2 years. My dream is to use my skills to help others and contribute to saving the earth from climate change issues 🌎
+Hi! I'm a full stack web developer who loves sharing my source codes here to benefit others. I hope you will find my repositories useful and learn something from them :) My dream is to use my skills to help others and contribute to saving the earth from climate change issues 🌎
 
 ### Skills ⚡
 <p>
